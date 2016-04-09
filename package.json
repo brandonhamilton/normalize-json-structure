@@ -1,0 +1,26 @@
+{
+  "name": "normalize-json-structure",
+  "version": "1.0.0",
+  "description": "Normalization of nested JSON structure",
+  "main": "lib/normalize-json-structure.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhamilton/normalize-json-structure.git"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "Brandon Hamilton <brandon.hamilton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhamilton/normalize-json-structure/issues"
+  },
+  "homepage": "https://github.com/brandonhamilton/normalize-json-structure#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
