@@ -1,6 +1,6 @@
 {
   "name": "normalize-json-structure",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Normalization of nested JSON structure",
   "main": "lib/normalize-json-structure.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/brandonhamilton/normalize-json-structure#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
   }
 }
